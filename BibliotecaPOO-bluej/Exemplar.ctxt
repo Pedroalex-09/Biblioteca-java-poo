@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Sep 20 00:51:15 BRT 2026
+comment0.target=Exemplar
+comment1.params=codigo
+comment1.target=Exemplar(java.lang.String)
+comment2.target=boolean isDisponivel()
+comment3.target=java.lang.String getCodigo()
+comment4.target=void emprestar()
+comment5.target=void devolver()
+numComments=6

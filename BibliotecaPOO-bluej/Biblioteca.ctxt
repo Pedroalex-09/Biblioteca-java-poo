@@ -1,0 +1,12 @@
+#BlueJ class context
+#Sun Sep 20 01:04:47 BRT 2026
+comment0.target=Biblioteca
+comment1.target=Biblioteca()
+comment2.params=livro
+comment2.target=void adicionarLivro(Livro)
+comment3.params=usuario
+comment3.target=void adicionarUsuario(Usuario)
+comment4.target=int getQuantidadeLivros()
+comment5.target=int getQuantidadeUsuarios()
+comment6.target=void ListarLivros()
+numComments=7

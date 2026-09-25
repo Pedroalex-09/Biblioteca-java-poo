@@ -1,0 +1,15 @@
+#BlueJ class context
+#Sun Sep 20 01:04:32 BRT 2026
+comment0.target=Livro
+comment1.params=isbn titulo anoPublicacao autor
+comment1.target=Livro(java.lang.String, java.lang.String, int, Autor)
+comment2.params=codigo
+comment2.target=void adicionarExemplar(java.lang.String)
+comment3.target=int getQuantidadeExemplares()
+comment4.target=java.lang.String getIsbn()
+comment5.target=java.lang.String getTitulo()
+comment6.target=int getAnoPublicacao()
+comment7.target=Autor getAutor()
+comment8.target=Exemplar buscarExemplarDisponivel()
+comment9.target=void exibirDados()
+numComments=10

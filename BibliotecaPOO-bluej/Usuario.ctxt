@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Sep 20 00:51:21 BRT 2026
+comment0.target=Usuario
+comment1.params=matricula nome email
+comment1.target=Usuario(java.lang.String, java.lang.String, java.lang.String)
+comment2.target=void ativar()
+comment3.target=void desativar()
+comment4.target=boolean isAtivo()
+comment5.target=void exibirDados()
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+#Sun Sep 20 00:51:25 BRT 2026
+comment0.target=Autor
+comment1.params=codigo nome nacionalidade
+comment1.target=Autor(java.lang.String, java.lang.String, java.lang.String)
+comment2.target=java.lang.String getCodigo()
+comment3.target=java.lang.String getNome()
+comment4.target=java.lang.String getNacionalidade()
+comment5.params=nome
+comment5.target=void setNome(java.lang.String)
+comment6.params=nacionalidade
+comment6.target=void setNacionalidade(java.lang.String)
+comment7.target=void exibirDados()
+numComments=8
